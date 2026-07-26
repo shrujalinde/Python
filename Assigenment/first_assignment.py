@@ -1,0 +1,1 @@
+print("THHE FIRT ASSIGNMENT")
