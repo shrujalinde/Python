@@ -1,0 +1,26 @@
+First Name,Last Name,Age,Salary,Department
+Aarav,Patil,19.0,25000.0,Computer
+Sneha,Jadhav,20.0,30000.0,Electronics
+Rohan,Deshmukh,21.0,29309.52380952381,IT
+Priya,Kulkarni,20.3,28000.0,Computer
+Aarav,Patil,19.0,25000.0,Computer
+Neha,Shinde,22.0,35000.0,
+Om,Joshi,20.0,32000.0,IT
+Sneha,Jadhav,20.0,30000.0,Electronics
+Kunal,More,20.3,27000.0,Computer
+Pooja,Pawar,21.0,29309.52380952381,IT
+Rohan,Deshmukh,21.0,28000.0,IT
+Ananya,Kale,19.0,24000.0,Computer
+Vivek,Chavan,22.0,36000.0,Electronics
+Neha,Shinde,20.3,35000.0,Electronics
+Siddhant,Mane,20.0,29309.52380952381,IT
+Pooja,Pawar,21.0,29000.0,
+Isha,Desai,19.0,26000.0,Computer
+Rahul,Patil,22.0,33000.0,Electronics
+Ananya,Kale,19.0,24000.0,Computer
+Kunal,More,20.3,27000.0,Computer
+Aditya,Pawar,20.0,31000.0,IT
+Meera,Joshi,21.0,29309.52380952381,Computer
+Aditya,Pawar,20.3,31000.0,
+Tanvi,More,20.0,27500.0,Electronics
+Om,Joshi,20.0,32000.0,IT
