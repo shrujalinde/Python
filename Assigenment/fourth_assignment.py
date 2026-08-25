@@ -53,3 +53,6 @@ print("8. NEW DATAFRAME")
 print("="*100)
 df = df[["First Name", "Last Name", "Age", "Salary", "Department"]]
 print(df)
+
+
+df.to_csv("final_student_data.csv", index=False)
