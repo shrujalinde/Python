@@ -46,7 +46,7 @@ axes[1].bar(
 axes[1].set_title("Bar Chart: Books Read")
 axes[1].set_xlabel("Students")
 axes[1].set_ylabel("Number of Books")
-axes[1].grid(True)
+# axes[1].grid(True)
 
 # 5. Histogram: Test Score Ranges
 axes[2].hist(
@@ -59,7 +59,7 @@ axes[2].hist(
 axes[2].set_title("Histogram: Score Distribution")
 axes[2].set_xlabel("Score Ranges")
 axes[2].set_ylabel("Number of Students")
-axes[2].grid(True)
+# axes[2].grid(True)
 
 # 6. Display the plots
 plt.tight_layout()
