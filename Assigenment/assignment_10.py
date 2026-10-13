@@ -1,7 +1,10 @@
 import numpy as np
+import time
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, r2_score
+
+start_time = time.perf_counter()
 
 # 1. Dataset: X = Hours Studied, y = Marks Scored
 X = np.array([[1], [2], [3], [4], [5], [6], [7], [8], [9], [10]])
@@ -33,3 +36,11 @@ new_hours = np.array([[7.5]])
 predicted_marks = model.predict(new_hours)
 
 print(f"Predicted Marks for 7.5 hours: {predicted_marks[0]:.1f}/100")
+
+end_time = time.perf_counter()
+
+# Calculate execution time
+execution_time = end_time - start_time
+
+print(f"\nExecution Time: {execution_time:.6f} seconds")
+print(f"Execution Time: {execution_time * 1000:.3f} milliseconds")
