@@ -37,7 +37,7 @@ cube=a**3
 sine_values=np.sin(a)
 print("Vectorized Addition (a+b):",addition)
 print("scalar multiplication (a*b):",multiplication)
-print("vectorized cube()")
+print("vectorized cube(a**3)",cube)
 print("Element-wise Power (a**2)",squared)
 print("sine values of 'a':",sine_values)
 print()
